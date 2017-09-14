@@ -1,0 +1,34 @@
+set 
+  empty set
+  subset
+  complement, equal, intersection, union, difference,disjoint
+  cartesian product? 用来表示空间，是直线，还是平面，还是实数集
+function-domain,range,
+  onto, 1-1 f^{-1} one-to-one reflection
+  level curve?  the curve constructed by x,y where have f(x,y)=c
+sequence
+  limit point--convergent sequence
+  euclidean distance, norm/length of vector
+  triangular inequality
+  ball about x_0
+  set closed/open?
+  bounded, compact
+  contiguity,continuous
+  intermediate value theorem
+differentiation
+  increase,decreasing, strictly increasing, strictly decreasing
+  higher order derivatives, exists and continuous
+  partial derivative
+  derivative or gradient?
+  p22 derivates/ tangent line?
+  directional derivatives?
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
