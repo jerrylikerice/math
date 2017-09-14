@@ -11,17 +11,25 @@ sequence
   euclidean distance, norm/length of vector
   triangular inequality
   ball about x_0
-  set closed/open?
-  bounded, compact
+  p14 set close包不包括边界，close包括d: /ball about--open? 不包括所有的边界
+  bounded 自变量有边界, compact 有边界有
   contiguity,continuous
   intermediate value theorem
 differentiation
   increase,decreasing, strictly increasing, strictly decreasing
   higher order derivatives, exists and continuous
   partial derivative
-  derivative or gradient?
-  p22 derivates/ tangent line?
-  directional derivatives?
+  derivative or gradient?--》 use matrix to represent derivate
+  p22 derivates/ tangent line?--> link level change with derivates
+  directional derivatives?--> parameterized the line going through x in the direction a
+  higher order partial derivatives, hessian matrix--> generalize gradient
+  tylor expansion-->used for approximation?
+homogeneous functions
+  homogeneous of degree k
+  euler's theorem?
+  implicit function theorem
+  
+
   
   
   
