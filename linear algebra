@@ -1,6 +1,19 @@
 the reason you keep all the change is that you acknowledge that people are good at doing ineffecient things but if you can learn from the past it's possible you can do it more efficient.
 And in this repo you want to solve the problem that you find hard to understand something sometimes. And you assume you don't understand because you do not know the speaker's intention. people say something can have different meaning under different context, and figuring out the context is the hardest part.
 
+dim(A) dimension m*n scalar multiplication
+transpose of a matrix
+matrix multiplication
+trace of a square matrix--sum of diagonal elements, what's the usage? p9
+symmetrix matrix, diagonal matrix,multiplication of diagonal matrix
+identity matrix, zero matrix
+idepotent matrix-square equals to itself
+upper/lower triangular matrix
+inverse of matrix, non-singular/singular, diagonal matrix
+
+
+
+
 det derterminator, tr trace, rank 59, dim 55, null space N p60,
 
 echelon form--which are easier to solve and figure out the rank
@@ -11,7 +24,7 @@ singular--if AB=BA=I if B exists non-singular otherwise non-singular. is used wh
 determinant--used to check a square matrix is invertible， A is invertible equals A is n*n and |A|!=0  
   minor,cofactor,adjoint--used for calculation
   
-elementary transform--->elementary matrix/properties link determinants and elementary matrix(27)-->determinant properties-->inverse
+elementary transform--->elementary matrix/properties link determinants and elementary matrix(27)-->determinant properties-->inverse p20
 
 elementary transform-->eigen vector and eigen value
 
