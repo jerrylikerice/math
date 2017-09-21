@@ -42,9 +42,13 @@ homogeneous functions
     closed interval/open interval, convex set
     covex/concave functions
     first order characterization of concave(convex) functions  the tangent plane and the fuction cue
-    second-order characterization of concave functions---the sign of second order differentiation and the property of convex or concave
+    second-order characterization of concave functions---the sign of second order differentiation and the property of convex or concave,strictly convex and second order differentiation
     
-    
+    quasi-concavity?
+    weaker constraint than concavity
+    is preserved under monotone transformation
+    how to judge
+    libniz's formula
   
   
   
