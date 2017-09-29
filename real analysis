@@ -11,7 +11,7 @@ sequence
   euclidean distance, norm/length of vector
   triangular inequality
   ball about x_0
-  p14 set close包不包括边界，close包括d: /ball about--open? 不包括所有的边界
+  p14 set close包不包括边界，closed: /ball about--open? 不包括所有的边界
   bounded 自变量有边界, compact 有边界有
   contiguity,continuous
   intermediate value theorem
@@ -35,7 +35,8 @@ homogeneous functions
   then why F'!=0 means y is continuous? seems it related to for the point we need to know how y changes in regarding to x, in the x^2+y^2=25 case, at x=5, y is not differenetiable because it can be near zero either positive or negtive
   implicit function thereom for the general case: generalize the conclusion to n unknown variable case.  In this case, matrix J will be useful in terms of notation. and use matrix theory to solve the function
   ---prove: tylor expansion
-  
+  \frac{\delta_F}{\delta_y}=0 means for that point, a small change in x, y does not change, then there is no guarantee there would be y correspond to x near x_0, example in p32
+  
   p43 solve for equations case: 1. general implicit function therom, how to solve linear equations
   
   concavity,
