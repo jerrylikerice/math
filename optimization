@@ -9,5 +9,11 @@ existence of global maximum-optimal  value theroem-closed/bounded
 special situation: corner solution, saddle point, quasi-concave function-p23
 envolop therom--one choice variable and one parameter. without solve the parameter can solve the maximal p32 
 optimization with equity constraints lagrange thereom basically they want to incorporate the equation constaint into the objective function by adding one more variable, by this means, the new lagrangian function happens satisfy the optimization condition for the oginal function p37
+the leading minor is to determine the value of sosc when there are other parameters? p45
+lagrange with inequity, watch out for lemta
+
+
+dynamic optimization
+
 
 
